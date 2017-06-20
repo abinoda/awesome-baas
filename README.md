@@ -24,6 +24,7 @@ Backend as a Service or "BaaS" products are third-party services that can be int
 ## Ecommerce
 
 - [Moltin](https://www.moltin.com/) - Unified APIs for inventory, carts, checkout, and payments
+- [Snipcart](https://snipcart.com/) - Add custom e-commerce to any website in minutes
 
 ## Forms
 
@@ -32,6 +33,8 @@ Backend as a Service or "BaaS" products are third-party services that can be int
 ## Messaging
 
 - [SendBird](https://sendbird.com) - Messaging SDK and chat API for mobile apps and websites
+- [Smootch](https://smooch.io/) - Unified messaging API for 3rd-party channels like WeChat, Facebook Messenger, etc.
+
 
 ## Video
 

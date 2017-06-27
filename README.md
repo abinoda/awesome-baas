@@ -29,6 +29,8 @@ Backend as a Service or "BaaS" products are third-party services that can be int
 ## Forms
 
 - [FormKeep](https://formkeep.com) - Form endpoints for websites
+- [LiveForm](https://liveformhq.com/) - Forms for websites, with email notifications, reCAPTCHA, file uploads and webhooks.
+- [Simple Form](https://getsimpleform.com/) - Free and seamless forms for websites/blogs.
 
 ## Messaging
 

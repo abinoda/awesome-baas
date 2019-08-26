@@ -23,7 +23,6 @@ Backend as a Service or "BaaS" products are third-party services that can be int
 
 ## Ecommerce
 
-- [Commerce Layer](https://commercelayer.io/) - Headless e-commerce, order management system, enterprise-ready
 - [Moltin](https://www.moltin.com/) - Unified APIs for inventory, carts, checkout, and payments
 - [Snipcart](https://snipcart.com/) - Add custom e-commerce to any website in minutes
 - [Voucherify](https://voucherify.io/) - Programmable building blocks for coupon, referral, and loyalty programs

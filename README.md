@@ -39,6 +39,10 @@ Backend as a Service or "BaaS" products are third-party services that can be int
 - [SendBird](https://sendbird.com) - Messaging SDK and chat API for mobile apps and websites
 - [Smootch](https://smooch.io/) - Unified messaging API for 3rd-party channels like WeChat, Facebook Messenger, etc.
 
+## Platform
+
+- [Linx](https://linx.software) - General-purpose low-code platform for building backends like APIs, automations and integrations
+
 
 ## Video
 
